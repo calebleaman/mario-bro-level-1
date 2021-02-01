@@ -13,4 +13,4 @@ Recreation of the first level in Super Mario Bros
 - Pygame
 
 # How to play
-run **mario_level_1**
+- Run **mario_level_1**
